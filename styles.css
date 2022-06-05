@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+    background-color:  #CDF0EA;
+  font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+h1{
+  margin: 0;
+  text-align: center;
+  font-size: 50px;
+}
+h2{
+  font-family: 'Permanent Marker', cursive;
+}
+.topcontainer{
+  background-color: #CDF0EA;
+}
+span{
+  text-decoration: underline;
+}
+.grp{
+  width: 600px;
+  height: 469px;
+  background-color:  #CDF0EA;
+}
+.p{
+  text-align: center;
+  font-size: 25px;
+}
+.top{
+  width: 600px;
+  height: 800px;
+}
+h3{
+  font-family: 'Indie Flower', cursive;
+}
